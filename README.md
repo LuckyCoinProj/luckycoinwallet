@@ -1,6 +1,6 @@
 # LuckyCoin Wallet
 
-The only wallet you need to store, send, and receive LuckyCoin!
+The only wallet you need to store, send, and receive LuckyCoin!!
 
 ---
 
