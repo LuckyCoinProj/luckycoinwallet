@@ -37,7 +37,6 @@
     "@noble/hashes": "1.4.0",
     "@react-three/drei": "^9.115.0",
     "@react-three/fiber": "^8.17.10",
-    "@tailwindcss/postcss": "^4.0.0",
     "bells-inscriber": "^0.2.5",
     "classnames": "2.5.1",
     "dayjs": "^1.11.13",
@@ -70,6 +69,7 @@
     "zustand": "4.5.4"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
     "@types/bun": "^1",
     "@types/chrome": "^0.0.270",
     "@types/koa-compose": "^3.2.8",
