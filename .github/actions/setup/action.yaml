@@ -16,6 +16,9 @@ runs:
     - run: yarn set version stable
       shell: bash
 
+    - run: yarn config set nodeLinker node-modules
+      shell: bash
+
     - uses: actions/cache@v3
       id: install-cache
       with:
