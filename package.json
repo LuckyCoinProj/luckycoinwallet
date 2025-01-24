@@ -1,6 +1,6 @@
 {
   "name": "luckycoinwallet",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "The only wallet you need to store, send and receive LuckyCoin!",
   "private": true,
   "scripts": {
@@ -45,9 +45,9 @@
     "i18next": "23.12.2",
     "immer": "^10.1.1",
     "koa-compose": "4.1.0",
-    "luckycoin-ord-utils": "^0.0.1",
+    "luckycoin-ord-utils": "^0.0.2",
     "luckycoinhdw": "^0.0.2",
-    "luckycoinjs-lib": "^0.0.2",
+    "luckycoinjs-lib": "^0.0.3",
     "luckycoinpair": "^0.0.2",
     "nintondo-bip39": "^1.0.0",
     "nintondo-browser-passworder": "^0.0.1",
